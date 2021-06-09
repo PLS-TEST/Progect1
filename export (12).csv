@@ -1,0 +1,496 @@
+Inventory number,Name,Serial,Mac address (eth),Mac address (wifi),Specification,Owner,Status,Cost,Currency,Purchase date,Warranty until,Additional info,Key,Created,Updated,Category
+n00012,Lenovo ThinkPad E531 (N4I8GRT) Black (L),NEED CHECK SERIAL NUMBER!!,,,"
+
+Intel Core i7-3632QM / 8 ГБ / 1Tb",,In use,1000.0,USD 840,16/Jan/15,,,HAR2-64739,24/Oct/20 12:01,24/Mar/21 17:23,Laptops
+n00043,Dell inspirion 15r core i7/AMD Graphics,NEED CHECK SERIAL NUMBER,,,Dell inspirion 15r core i7/AMD Graphics,,In use,220.0,USD 840,,,,HAR2-64772,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00064,,NEED CHECK SERIAL NUMBER,,,"Экран 15.6"" (1920x1080) Full HD LED, глянцевый / Intel Core i7-4700MQ (2.4 ГГц) / RAM 8 ГБ / HDD 1 ТБ / nVidia GeForce GT 740M, 2 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / Windows 8 64bit / 2.45 кг / серебристый , Подробнее: , http://rozetka.com.ua/hp_envy_15_j040sr_f2u03ea/p401494/",,Broken,1090.0,USD 840,,,"https://jira.lucky-labs.com/browse/MOFF-2254
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22768, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22768",HAR2-64791,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00071,i5 / 4540s / RAM 8GB / 500 HDD,NEED CHECK SERIAL NUMBER,,f4:b7:e2:56:ea:2b,"
+
+i5 / 4540s / RAM 8GB / 500 HDD",Artem Morgun,Lost,,,16/Jan/15,,,HAR2-64800,24/Oct/20 12:01,02/Mar/21 16:08,Laptops
+n00080,"Apple MacBook , Pro 15* retina, core i7, 16Gb, 256Gb ssd",C02ML0A5FD58,,78:31:c1:d1:b4:68,"Apple MacBook , Pro 15* retina, core i7, 16Gb, 256Gb ssd",Boris Tkachuk,In use,1599.0,USD 840,23/Jan/17,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-9237, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-203, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4497, https://jira-servicedesk.lucky-labs.com/browse/OSHD-3727, https://jira-servicedesk.lucky-labs.com/browse/OSHD-2983
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-685, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27492
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22032
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-828",HAR2-64809,24/Oct/20 12:01,29/Dec/20 12:52,Laptops
+n00105,"Intel Core i7 4702MQ (2.2ГГц)//RAM 16 Gb/SSD 250 GB//NVIDIA GeForce GT740M 2Gb, Подробнее: , info",CX612OD-407XUA,44:8a:5b:40:61:73,54:27:1e:03:24:00,"Intel Core i7 4702MQ (2.2ГГц)//RAM 16 Gb/SSD 250 Gb/NVIDIA GeForce GT740M 2Gb, Подробнее: , info",Veronika Koliukaieva,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-1798, https://jira.lucky-labs.com/browse/MOFF-7345, https://jira-servicedesk.lucky-labs.com/browse/OSHD-818, https://jira-servicedesk.lucky-labs.com/browse/OSHD-1658, https://jira-servicedesk.lucky-labs.com/browse/OSHD-2399, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25352
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19892
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19275",HAR2-64834,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00120,"Intel Core i7 4702MQ (2.2ГГц)/ RAM 8 Gb/ HDD 1Тb/ NVIDIA GeForce GT740M 2Gb, Подробнее: , info",CX612OD-407XUA,44:8a:5b:40:62:31,54:27:1e:03:23:0f,"Intel Core i7 4702MQ (2.2ГГц)/ RAM 8 Gb/ HDD 1Тb/ NVIDIA GeForce GT740M 2Gb, Подробнее: , info",,In use,,,7/Aug/14,,,HAR2-64848,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00132,Intel Core i7-4702MQ/8 Gb RAM / HDD 1 TB / Nvidia Geforce GT G740M 2GB,NEED CHECK SERIAL NUMBER,,,Intel Core i7-4702MQ/8 Gb RAM / HDD 1 TB / Nvidia Geforce GT G740M 2GB,,In use,,,16/Jan/15,,,HAR2-64860,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00139," , Apple MacBook Pro 13 with Retina display 2013 Late - , Link",C02MXE5HFH00,,3c:15:c2:e1:27:d6,"
+
+&nbsp;, Apple MacBook Pro 13 with Retina display 2013 Late - , Link",,Reserve,,,16/Oct/14,,"
+
+https://jira.lucky-labs.com/browse/MOFF-5516, https://jira.lucky-labs.com/browse/MOFF-2991, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28269",HAR2-64868,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00148,"15.6''; CPU: Intel Core i7-4700MQ; RAM: 8 GB; HDD - 1TB; Video: NVIDIA GeForce GT 755M, 2GB",59-407206,28:d2:44:47:c5:1b,00:c2:c6:2d:70:08,"15.6''; CPU: Intel Core i7-4700MQ; RAM: 8 GB; HDD - 1TB; Video: NVIDIA GeForce GT 755M, 2GB",,Utilised,1246.0,USD 840,10/Dec/14,,,HAR2-64876,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00157,"Экран 15.6"" (1366x768) / Intel Core i3-4005U (1.7 ГГц) / RAM 4 ГБ / HDD 500 ГБ / Intel HD Graphics 4400,  , Info,",I35345DIL-34,74:e6:e2:20:1e:53,4c:bb:58:4c:d9:a1,"Экран 15.6"" (1366x768) / Intel Core i3-4005U (1.7 ГГц) / RAM 4 ГБ / HDD 500 ГБ / Intel HD Graphics 4400, &nbsp;, Info,",Yurii Kosinskiy,In use,445.0,USD 840,16/Feb/15,,"https://jira.lucky-labs.com/browse/MOFF-4100, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-168, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-49, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-740",HAR2-64885,24/Oct/20 12:01,04/Dec/20 14:07,Laptops
+n00205,"Intel Core i7-5500U/ 15.6''Full HD /RAM 16Gb/SSD 120GB, /, AMD Radeon R7 M265, 2 GB",SPF0A29M6,68:f7:28:c3:a1:d2,c4:8e:8f:a7:35:bd,"Intel Core i7-5500U/ 15.6''Full HD /RAM 16Gb/HDD 1TB, /, AMD Radeon R7 M265, 2 GB",Aleksandr Kravcov,In use,24188.0,UAH 980,3/Aug/15,3/Aug/16,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-4848, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-567, https://jira-servicedesk.lucky-labs.com/browse/OSHD-3986, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4786, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4269, https://jira.lucky-labs.com/browse/MOFF-5445, https://jira.lucky-labs.com/browse/MOFF-5290, https://jira.lucky-labs.com/browse/MOFF-7006, https://jira.lucky-labs.com/browse/MOFF-7269 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-878, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28231
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-878",HAR2-64934,24/Oct/20 12:01,18/May/21 14:56,Laptops
+n00253,"14"" / Intel Core i7-5600U / RAM 8GB / SSD 250 GB / Intel HD Graphics 5500",30ZDZ52,20:47:47:bb:55:3c,94:65:9c:45:4d:54,"
+
+14"" / Intel Core i7-5600U / RAM 8GB / SSD 250 GB / Intel HD Graphics 5500",,Reserve,47611.0,UAH 980,9/Oct/15,8/Oct/18,,HAR2-64986,24/Oct/20 12:01,28/May/21 13:34,Laptops
+n00293,"15.6"" / Intel Core i5-5200U / RAM 8GB / SSD 250GB / , AMD Radeon R9 M375, 2 ГБ",MP08G4RY,f0:76:1c:db:b9:24,34:68:95:ae:e5:ff,"
+
+15.6"" / Intel Core i5-5200U / RAM 16GB / SSD 250GB / , AMD Radeon R9 M375, 2 ГБ",,Broken,910.0,USD 840,21/Oct/15,21/Oct/16,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-4428, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11145, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4269, https://jira-servicedesk.lucky-labs.com/browse/OSHD-9433, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11184, https://jira.lucky-labs.com/browse/MOFF-6142, https://jira.lucky-labs.com/browse/MOFF-7872, https://jira-servicedesk.lucky-labs.com/browse/OSHD-3025, https://jira-servicedesk.lucky-labs.com/browse/OSHD-3547, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27642
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25118",HAR2-65022,24/Oct/20 12:01,03/Mar/21 17:42,Laptops
+n00310,"15.6"" / Intel Core i5-5200U / RAM 8GB / HDD 1TB /, NVIDIA GeForce 830M, 2 GB",3K72042,44:a8:42:f2:69:50,dc:53:60:78:33:e0,"
+
+15.6"" / Intel Core i5-5200U / RAM 8GB / HDD 1TB /, NVIDIA GeForce 830M, 2 GB",Denis Koshel,Need check reserve,23046.0,UAH 980,2/Nov/15,30/Oct/18,,HAR2-65039,24/Oct/20 12:01,02/Mar/21 18:50,Laptops
+n00332,"15.6"" / Intel Core i5-5200U / RAM 8GB / HDD 1TB / , AMD Radeon R9 M375, 2 ГБ",MP09N3Y8,f0:76:1c:e4:0d:8e,b8:86:87:4f:c4:03,"15.6"" / Intel Core i5-5200U / RAM 8GB / HDD 1TB / , AMD Radeon R9 M375, 2 ГБ",Yurii Kosinskiy,Sold,920.0,USD 840,6/Nov/15,6/Nov/16,,HAR2-65061,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00350,MacBook Pro (model a1502),С02P2RPHG3QJ,,60:f8:1d:d2:51:90,"
+
+Intel Core i5-4278U / 13,3"" IPS&nbsp; / RAM 8Gb / SSD 256 GB /, Intel HD Graphics 5100",Oleksandr Androsov,Test,35900.0,UAH 980,,,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-2925, https://jira-servicedesk.lucky-labs.com/browse/OSHD-2890, https://jira.lucky-labs.com/browse/MOFF-6474, https://jira-servicedesk.lucky-labs.com/browse/OSHD-23242 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1043
+
+https://jira-servicedesk.os.eco/browse/OSHD-30854",HAR2-65077,24/Oct/20 12:01,03/Mar/21 18:29,Laptops
+n00362,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",FCN0CY00M04050A,2C:56:DC:25:6A:8D,18:5e:0f:91:84:4e,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",Andrew Kosyack,In use,41000.0,UAH 980,25/Apr/16,25/Apr/18,"https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-345, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-514, https://jira-servicedesk.lucky-labs.com/browse/OSHD-24427
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24292
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24286
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22987
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-21247
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-18990",HAR2-65091,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00365,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",FCN0CY00M03850B,,18:5e:0f:90:d6:cf,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",Oleg Ishchyk,Need check in use,41000.0,UAH 980,25/Apr/16,25/Apr/18,"https://jira-servicedesk.lucky-labs.com/browse/SDPLS-483, https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-10911, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-385 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-878, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-878
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-838",HAR2-65093,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00367,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",FCN0CY00M032503,,18:5e:0f:90:dd:9b,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",Sergy Lakhovets,In use,41000.0,UAH 980,25/Apr/16,25/Apr/18,"https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22039
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20040
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19356",HAR2-65096,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00368,Asus N552VX (N552VX-FY033T),FCN0CY00M034505,,18:5e:0F:90:d6:e8,"
+
+15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",,Reserve,41000.0,UAH 980,25/Apr/16,25/Apr/18,"
+
+https://servicedesk.pls.life/browse/SDPLS-515, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-493,https://servicedesk.pls.life/browse/SDPLS-515, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11777, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-429, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-324, https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28195
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20793
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-879",HAR2-65097,24/Oct/20 12:01,08/Jun/21 16:30,Laptops
+n00373,Asus N552VX (N552VX-FY033T),FCN0CY00M046508,,18:5e:0f:90:dd:96,"15.6' , Intel Core i7-6700HQ/ RAM 16 GB/ SSD, 128 GB /HDD 1 TB /NVIDIA GeForce GTX 950M",Svitlana Chuienko,In use,41000.0,UAH 980,25/Apr/16,25/Apr/18,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-1766, https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-10911, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11474, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-385, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11703 https://jira-servicedesk.lucky-labs.com/browse/OSHD-16264 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-953, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-953
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-16264",HAR2-65102,24/Oct/20 12:01,29/Jan/21 12:28,Laptops
+n00378,"15.6"" / Intel Core i7-6500U / RAM 8GB / / , Intel HD Graphics 520",5CD5495WBG,b0:5a:da:e3:cb:2d,e0:94:67:83:86:23,"15.6"" / Intel Core i7-6500U / RAM 8GB / / , Intel HD Graphics 520",,Broken,1069.0,USD 840,11/Mar/16,11/Mar/17,,HAR2-65107,24/Oct/20 12:01,18/May/21 16:47,Laptops
+n00379,"15.6"" / Intel Core i7-6500U / RAM 16GB /SSD 256 GB / , Intel HD Graphics 520",5CD5495W9L,b0:5a:da:e3:c4:a7,e0:94:67:83:87:db,"15.6"" / Intel Core i7-6500U / RAM 16GB /SSD 256 GB / , Intel HD Graphics 520",Anton Kuzmishyn,In use,1069.0,USD 840,11/Mar/16,11/Mar/17,"https://jira.lucky-labs.com/browse/MOFF-6946, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22825
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-21190
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-17870",HAR2-65108,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00402,HP ProBook 450 G3,5CD61055GG,70:5a:0f:1f:92:b0,08:D4:0C:DD:16:75,"15.6"" / Intel Core i7-6500U / RAM 16GB /SSD 250 GB / , Intel HD Graphics 520/ Radeon R7 M340",Natalia Melnichenko,In use,880.0,USD 840,14/Apr/16,14/Apr/17,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-3914, https://jira-servicedesk.lucky-labs.com/browse/OSHD-3672, https://jira-servicedesk.lucky-labs.com/browse/OSHD-5032, https://jira-servicedesk.lucky-labs.com/browse/OSHD-6791, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-178, https://jira-servicedesk.lucky-labs.com/browse/OSHD-8968, https://jira-servicedesk.lucky-labs.com/browse/OSHD-9686, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4095, https://jira-servicedesk.lucky-labs.com/browse/OSHD-4068, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22293 https://jira-servicedesk.lucky-labs.com/browse/OSHD-21793
+
+Ноут подготовлен для использования во время выставки по таску OSHD-31494 и просили его оставить готовым в резерве.",HAR2-65133,24/Oct/20 12:01,01/Apr/21 17:13,Laptops
+n00431,"Intel Core i7-5557U/ 13.3'' / RAM 16Gb / SSD 512GB / , Intel Iris Graphics 6100",NEED CHECK SERIAL NUMBER,,f4:5c:89:94:22:9d,"Intel Core i7-5557U/ 13.3'' / RAM 16Gb / SSD 512GB / , Intel Iris Graphics 6100",Sergey Timofeev,In use,64930.0,UAH 980,26/Apr/16,26/Apr/17,,HAR2-65161,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00464,"Apple MacBook Pro 13"" with Retina display (Z0QN0003M) 2015 / Intel Core i5-5257U / 13.3'' / RAM 16Gb / SSD 256GB / Intel Iris Graphics 6100",C02S200NFVH6,,98:01:A7:AC:A9:D3,Intel Core i5-5257U/ 13.3'' / RAM 16Gb / SSD 256GB / Intel Iris Graphics 6100,Alexander Ivshin,In use,53000.0,UAH 980,29/Jul/16,29/Jul/17,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-5420, https://jira-servicedesk.lucky-labs.com/browse/OSHD-639, https://jira-servicedesk.lucky-labs.com/browse/OSHD-7451 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-840, https://jira-servicedesk.lucky-labs.com/browse/OSHD-26390
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25854
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19970
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19110
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-18502
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1087",HAR2-65192,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00494,"Apple MacBook Air 13"" (MMGF2) 2016 (Intel Core I5-5250U/ 8Gb DDR3L/ SSD 128Gb/ , Intel HD Graphics 6000",SC02RF04FH3QD,,A4:D1:8C:EF:88:4A,"Apple MacBook Air 13"" (MMGF2) 2016 (Intel Core I5-5250U/ 8Gb DDR3L/ SSD 128Gb/ , Intel HD Graphics 6000",,Sold,963.0,USD 840,5/Sep/16,5/Sep/17,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-1034, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25591
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25534
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25135
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19789",HAR2-65222,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00510,Lenovo ThinkPad E560,PF0IZBLE,50:7b:9d:ef:bd:36,00:db:df:ed:43:ba,"
+
+Intel Core i7-6500U/ 15.6''Full HD /RAM 16Gb/, HDD 1 TB/, AMD Radeon R7 M370, 2 GB",,Reserve,19888.0,UAH 980,27/Oct/16,27/Oct/17,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-11596, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-172, https://jira-servicedesk.lucky-labs.com/browse/OSHD-1859, https://jira-servicedesk.lucky-labs.com/browse/OSHD-8929, https://jira-servicedesk.lucky-labs.com/browse/OSHD-1802, https://jira-servicedesk.lucky-labs.com/browse/OSHD-7123, https://jira-servicedesk.lucky-labs.com/browse/OSHD-21925",HAR2-65236,24/Oct/20 12:01,02/Jun/21 13:44,Laptops
+n00527,"Intel Core i7-6500HQ/ 15.6''Full HD /RAM 16Gb(8+8)/, SSD 256Gb + HDD 1 TB/, NVIDIA GeForce GTX 960M, 2 ГБ",K1607N0088163,4c:cc:6a:7e:35:e1,b8:81:98:ed:3d:b1,"Intel Core i7-6500HQ/ 15.6''Full HD /RAM 8Gb/, SSD 256Gb + HDD 1 TB/, NVIDIA GeForce GTX 960M, 2 ГБ",Valeriy Rosovik,In use,23750.0,UAH 980,10/Nov/16,10/Feb/17,"https://jira-servicedesk.lucky-labs.com/browse/SDPLS-482, https://jira-servicedesk.lucky-labs.com/browse/OSHD-9433, https://jira-servicedesk.lucky-labs.com/browse/OSHD-2236, https://jira-servicedesk.lucky-labs.com/browse/OSHD-1926, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22403
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20291
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1116",HAR2-65254,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00529,"Intel Core i7-6500HQ/ 15.6''Full HD /RAM 8Gb/, SSD 256Gb + HDD 1 TB/, NVIDIA GeForce GTX 960M, 2 ГБ",K1607N0088203,4c:cc:6a:7e:36:5d,b8:81:98:ea:c2:84,"Intel Core i7-6500HQ/ 15.6''Full HD /RAM 8Gb/, SSD 256Gb + HDD 1 TB/, NVIDIA GeForce GTX 960M, 2 ГБ",Andrey Nedoluzhko,In use,23750.0,UAH 980,10/Nov/16,10/Feb/17,,HAR2-65255,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00569,"Intel Core i7 3740QM 2.7GHz /  / RAM 16Gb /  HDD 500 GB , /,  ,  , Intel HD Graphics 4000 , Nvidia Quadro K1000M",NEED CHECK SERIAL NUMBER,3c:97:0e:8c:de:6b,3c:a9:f4:23:a7:b8,"
+
+Intel Core i7 3740QM 2.7GHz /&nbsp; / RAM 16Gb /&nbsp; SSD 500 GB , /, &nbsp;, &nbsp;, Intel HD Graphics 4000 , Nvidia Quadro K1000M",Artem Morgun,In use,530.0,USD 840,4/Jan/17,,,HAR2-65296,24/Oct/20 12:01,02/Mar/21 16:06,Laptops
+n00578,"Intel Core I7-6820HQ 2.7 GHZ/ 16Gb LPDDR3/ SSD 512 Gb/ , Intel Iris Graphics 530 1536 Mb",C02SRE2JGTFM,,f4:0f:24:36:e5:2f,"Intel Core I7-6820HQ 2.7 GHZ/ 16Gb LPDDR3/ SSD 512 Gb/ , Intel Iris Graphics 530 1536 Mb",,Broken,75555.0,UAH 980,24/Jan/17,17/Apr/18,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-2983, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28218",HAR2-65306,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00587,"Apple MacBook Pro 13"" (Z0QP0005P) 2015, Intel Core I5-5287U/ 16Gb DDR3L/ SSD 512Gb/ , Intel HD Graphics 6100",C02SD2VZFVH8,,c4:b3:01:d0:a2:b7,"Apple MacBook Pro 13"" (Z0QP0005P) 2015, Intel Core I5-5287U/ 16Gb DDR3L/ SSD 512Gb/ , Intel HD Graphics 6100",,Sold,63197.0,UAH 980,21/Feb/17,21/Feb/18,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-2941, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20071
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20236",HAR2-65313,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00602,Intel Core i7-6500U/8 Gb RAM/1TB/ Nvidia 920M,G2NOCXO5U289096,9c:5c:8e:d9:99:af,80:a5:89:c1:c5:11,Intel Core i7-6500U/8 Gb RAM/1TB/ Nvidia 920M,Alexandra Varvus,In use,31423.0,UAH 980,6/Mar/17,6/Mar/18,,HAR2-65329,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00691,"Intel Core i5 / 13"" /RAM 8Gb / , SSD 250 GB / , Intel HD 4000",C02SD8MDFVH5,,c4:b3:01:ca:fb:af,"Intel Core i5 / 13"" /RAM 8Gb / , SSD 250 GB / , Intel HD 4000",Vitaliy Nikiforov,In use,37723.0,UAH 980,16/Aug/17,16/Dec/17,"https://jira.lucky-labs.com/browse/FQ-24769, https://jira-servicedesk.lucky-labs.com/browse/OSHD-6449, https://jira-servicedesk.lucky-labs.com/browse/OSHD-21050",HAR2-65418,24/Oct/20 12:01,18/May/21 17:50,Laptops
+n00693,"Intel Core i5 / 13"" /RAM 8Gb / , SSD 120 GB / , Intel HD 6000",C1MTKE10J1WK,,d4:61:9d:02:c1:4e,"Intel Core i5 / 13"" /RAM 8Gb / , SSD 120 GB / , Intel HD 6000",Ekaterina Chesnova,In use,24044.0,UAH 980,11/Aug/17,11/Aug/18,"https://jira.lucky-labs.com/browse/FQ-24701, https://jira-servicedesk.lucky-labs.com/browse/OSHD-6387, https://jira-servicedesk.lucky-labs.com/browse/OSHD-8696, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-197
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-685 https://jira-servicedesk.lucky-labs.com/browse/SDPLS-936, https://jira-servicedesk.lucky-labs.com/browse/OSHD-24313
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22704
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-936",HAR2-65419,24/Oct/20 12:01,18/May/21 17:17,Laptops
+n00762,"Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",MP19MJKK,,34:f6:4b:ad:38:b0,"Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",Ruslan Kravchuk,In use,26999.0,UAH 980,13/Jan/18,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-8883, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22147
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20430
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19792
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1072
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-17495
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-977",HAR2-65487,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00766,"13.3"" / Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",MP19MHCX,,34-F6-4B-C1-00-34,"13.3"" / Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",Anastasiia Nikolova,In use,26999.0,UAH 980,13/Jan/18,,"https://jira-servicedesk.lucky-labs.com/browse/SDPLS-178, https://jira-servicedesk.lucky-labs.com/browse/OSHD-8883, https://jira-servicedesk.lucky-labs.com/browse/OSHD-11924, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-655, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25573
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22057
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-19886
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-17495
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-952",HAR2-65492,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00778,lenovo ideapad 710s PLus,MP19MFB1,,,"
+
+Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",Yurii Baidala,In use,26999.0,UAH 980,13/Jan/18,,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-8883, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22879
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22032
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-993
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-17056
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-16495",HAR2-65504,24/Oct/20 12:01,09/Feb/21 18:08,Laptops
+n00782,Lenovo IdeaPad 710S Plus-13 (80W3004GRA),MP19MKDJ,,,"Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",Alexander Ivshin,In use,26999.0,UAH 980,13/Jan/18,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-8883, https://jira-servicedesk.lucky-labs.com/browse/SDFQIGS-4774
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22201",HAR2-65508,24/Oct/20 12:01,26/Feb/21 16:55,Laptops
+n00796,"Apple MacBook Pro 13"" Space Gray (MPXT2) 2017 , Intel Core I5 2.3Ghz / 8Gb DDR3L/ SSD 256Gb/ , Intel Iris Plus Graphics 640",FVFVV150HV29,,8c:85:90:98:11:80,"
+
+Apple MacBook Pro 13"" Space Gray (MPXT2) 2017 , Intel Core I5 2.3Ghz / 8Gb DDR3L/ SSD 256Gb/ , Intel Iris Plus Graphics 640",Andrii Ostapuk,In use,40936.0,UAH 980,8/Feb/18,8/May/18,"
+
+Ноут принадлежит ПЛС. Находится во временном использовании
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-9237, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-229, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27897 https://jira-servicedesk.lucky-labs.com/browse/OSHD-26381 https://jira-servicedesk.lucky-labs.com/browse/OSHD-26065 https://jira-servicedesk.lucky-labs.com/browse/OSHD-21871",HAR2-65523,24/Oct/20 12:01,09/Dec/20 15:45,Laptops
+n00855,"13,3"" , IPS , 1920x1080 | , Intel Core i5-8250U | 8 Gb | 256 SSD | , GeForce MX 150 2Gb",J4N0CV07P03417G,D4:6D:6D:1E:86:24,,"13,3"" , IPS , 1920x1080 | , Intel Core i5-8250U&nbsp;| 8 Gb | 256 SSD | , GeForce MX 150 2Gb",Vsevolod Lapin,In use,31047.0,UAH 980,4/Jul/18,4/Jul/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-12819, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-490, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20323
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20176",HAR2-65580,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00894,"Apple MacBook Air 13"" (MQD32) 2017",FVFX92VVJ1WK,14:C2:13:01:9A:F8,,"Экран 13.3"" (1440x900) WXGA+ LED, глянцевый / Intel Core i5 (1.8 - 2.9 ГГц) / RAM 8 ГБ / SSD 128 ГБ / Intel HD Graphics 6000 / без ОД / Wi-Fi /",Lyubomir Bedratiuk,In use,24068.0,UAH 980,21/Oct/18,21/Oct/19,,HAR2-65617,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00899,"Ноутбук Apple MacBook Pro 13"" Space Grey (Z0UK000QQ) 2017",FVFX2141HV2F,88:E9:FE:81:37:70,,"Intel Core i5-7360U 2,3-3,6 GHz | RAM 16 Gb LPDDR3-2133 | Intel Iris Graphics 640 | SSD 256 Gb",Denis Koshel,In use,53600.0,UAH 980,1/Nov/18,1/Nov/19,,HAR2-65622,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n00995,"Apple MacBook Pro 13"" Space Grey 2017 (Z0UJ00011)",FVFWW074HV2H,,88:E9:FE:77:57:74,"Apple MacBook Pro 13"" Space Grey 2017 (Z0UJ00011) Apple MacBook Pro 13"" Space Grey 2017 (Z0UJ00011) 62 520.83грн.",Maxim Pilipets,In use,62520.0,UAH 980,16/Jan/19,16/Jan/20,"https://jira-servicedesk.lucky-labs.com/browse/SDPLS-903
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-26798, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-903
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-26798",HAR2-65718,24/Oct/20 12:01,09/Mar/21 20:38,Laptops
+n01001,"2560x1600 | , Intel Core i5-7360U (, 2,3-3,6, ) | , 8 Gb , LPDDR3-2133, RAM | , 128 Gb SSD | , Intel Iris Graphics 640",C02WJ2DQHV22,,,"2560x1600 | , Intel Core i5-7360U (, 2,3-3,6, ) | , 8 Gb , LPDDR3-2133, RAM | , 128 Gb SSD | , Intel Iris Graphics 640",Ruslan Derkach,In use,33443.0,UAH 980,31/Jan/19,31/Jan/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-29541, https://jira-servicedesk.lucky-labs.com/browse/SDPLS-977
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-29541",HAR2-65724,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01010,"14"" • IPS • 1920x1080 • AMD Ryzen 7 PRO 2700U • 2,2-3,8 ГГц • ОЗУ: 16 ГБ • AMD Radeon RX Vega 10  • SSD: 512 ГБ",PF-16806V,,,"14"" • IPS • 1920x1080 • AMD Ryzen 7 PRO 2700U • 2,2-3,8 ГГц • ОЗУ: 16 ГБ • AMD Radeon RX Vega 10  • SSD: 512 ГБ",Oleksandr Bildin,In use,42450.0,UAH 980,18/Mar/19,18/Mar/22,"https://servicedesk.lucky-labs.com/browse/SDPLS-1106, https://servicedesk.lucky-labs.com/browse/SDFQ-33209, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28463
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27980
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27817
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27174
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20031
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-33590
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-33209
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1106",HAR2-65732,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01011,"Apple MacBook Pro 13"" Space Grey (Z0UK000QQ) 2017",FVFXW0L0HV2G,38:f9:d3:52:86:f4,,"Apple MacBook Pro 13"" Silver 2017 i5 2.3GHz/16GB/250GB/Intel Iris Graphics 640",Alexandr Zaburannyi,In use,54645.0,UAH 980,19/Mar/19,19/Mar/19,"https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1088, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-33037
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-33753
+https://jira-servicedesk.lucky-labs.com/browse/SDPLS-1088",HAR2-65734,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01020,"Apple MacBook Pro 13"" Space Gray (MPXQ2) 2017 A1708",FVFXV5QCHV22,,,"
+
+13,3"" • IPS • 2560x1600 • Intel Core i5-7360U • 2,3-3,6 ГГц • ОЗУ: 8 ГБ • Intel Iris Graphics 640 • SSD: 128 ГБ • 1,37 кг",Alena Grechko,In use,31742.0,UAH 980,1/May/19,1/May/20,"
+
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-35708, https://jira-servicedesk.lucky-labs.com/browse/OSHD-18862, https://jira-servicedesk.lucky-labs.com/browse/OSHD-21955
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-21877
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-35708
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-18862",HAR2-65743,24/Oct/20 12:01,10/Mar/21 18:28,Laptops
+n01037,"Apple MacBook Pro 15"" Space Grey 2018 (MR932)",C02YD0WWJG5H,,38-F9-D3-99-08-DA,"Intel Core i7-8750H / RAM 16 / SSD 256 Gb / AMD Radeon Pro 555X, 4ГБ GDDR5",,Reserve,57487.0,UAH 980,30/Jun/19,30/Jun/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-40877, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20519, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-40877
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20519
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-41556",HAR2-65760,24/Oct/20 12:01,23/Apr/21 15:20,Laptops
+n01038,"MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",FVFY712FHV2H,,38:f9:d3:70:1c:71,"Intel Core i5-7360U, / 16Gb DDR3 / SSD 256Gb/ , Intel Iris Graphics 640",Anatolii Boiko,In use,51745.0,UAH 980,30/Jun/19,30/Jun/20,"
+
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-41026, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20430, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25401 https://jira-servicedesk.lucky-labs.com/browse/OSHD-25349 https://jira-servicedesk.lucky-labs.com/browse/OSHD-24720 https://jira-servicedesk.lucky-labs.com/browse/OSHD-22369 https://jira-servicedesk.lucky-labs.com/browse/SDFQ-41026 https://jira-servicedesk.lucky-labs.com/browse/OSHD-20430
+
+https://jira-servicedesk.os.eco/browse/OSHD-25349",HAR2-65758,24/Oct/20 12:01,07/Apr/21 15:28,Laptops
+n01121,"Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",MP19MJHS,,34-F6-4B-AD-37-D9,"Intel Core I7-7500U/ 8Gb DDR4 2400МГц/ SSD 256Gb/ , Intel HD Graphics 520+nVidia GT940MX2Gb",,In use,,,,,,HAR2-65840,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01147,ASUS ZenBook S UX391UA Deep Dive Blue (UX391UA-EG007R),JAN0CV03H732410,,B4:69:21:E2:1B:02,"
+
+ASUS ZenBook S UX391UA Deep Dive Blue (UX391UA-EG007R)
+
+Ультрабук • Классический • 13,3"" • IPS • 1920x1080 • Intel Core i7-8550U • 1,8-4,0 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1 кг • ОС: Windows 10 Pro • цвет: темно-синий/темно-синий",,Reserve,43942.0,UAH 980,3/Jul/19,3/Jul/21,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20617
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-41623, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25950
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-41623
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20617",HAR2-65862,24/Oct/20 12:01,04/Jun/21 11:36,Laptops
+n01148,n01148,NXVD8EK005703024537600,,c8:21:58:66:8e:3d,ACER/I5-6200U/RAM-8GB/SSD-250GB/Win10Pro_x64_KMS,,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65860,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01149,n01149,FBJDKC2,28:f1:0e:2a:9d:5d,e4:a4:71:42:00:22,DELL/I5-6300U/RAM-8GB/SSD-128GB/Win10Pro_x64_KMS,,In use,,,,,,HAR2-65861,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01150,n01150,9S714B141222ZI9000015,,,MSI/I7-8550U/RAM-16GB/SSD-250GB/Win10Pro_x64,Andrei Andronic,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65863,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01151,n01151,NXVEFEK00171102F247200,10:05:01:4d:7b:fc,c8:21:58:ed:38:b6,ACER/I5-7200U/RAM-8GB/HDD-1TB/Win10Pro_x64_KMS,,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65864,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01152,n01152,K1809N0063492,,,MSI/I7-8550U/RAM-16GB/SSD-500GB/Win10Pro_x64,Ivan Farrugia,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65865,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01153,n01153,K1809N0036204,,,"
+
+MSI/I7-8550U/RAM-16GB/SSD-250GB/Win10Pro_x64",,Reserve,,,,,"
+
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65870,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01154,n01154,9S714B141222ZI9000047,,dc:8b:28:13:b3:20,MSI/I7-8550U/RAM-16GB/SSD-250GB/Win10Pro_x64,Lars Kollind [X],In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65866,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01155,n01155,8CG85137YX,,28:3a:4d:55:e0:15,HP Pavilion/I7-8565U/RAM-8GB/SSD-250GB/Win10Pro_x64,,Reserve,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65867,24/Oct/20 12:01,04/Mar/21 16:54,Laptops
+n01156,n01156,J6N0CV02P50123G,,7c:2a:31:04:49:5d,ASUS UX430U/I7-8550U/RAM-8GB/SSD-250GB/Win10Pro_x64,Sergey Filchuk,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65869,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01157,n01157,C17MLJ36G085,,64:76:ba:b3:c2:ca,MacBook Air 13-inch Early 2014/Intel Core /RAM-4GB/SSD-128GB/OS X 10.9.5,Ivan Farrugia,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65868,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01158,n01158,9S714B141222ZI9000046,,dc:8b:28:13:b2:8a,MSI/I7-8550U/RAM-16GB/SSD-250GB/Win10Pro_x64,Hayley Mungovan,In use,,,,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880, https://jira-servicedesk.lucky-labs.com/browse/OSHD-20880",HAR2-65871,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01159,MSI PS42 8M (PS428M-247PL),K1810N1088309,,,"Ноутбук • Классический • 14,1"" • IPS • 1920x1080 • Intel Core i7-8550U • 1,8- 4,0 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 256 ГБ • 1,18 кг • OS Win10Home • Silver",Joshua Sell,In use,,,18/Aug/19,,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-21697, https://jira-servicedesk.lucky-labs.com/browse/OSHD-21697",HAR2-65872,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01160,HP ProBook 450 G7,5CD0358ZS8,,6C:6A:77:6C:CD:48,"
+
+Processor Intel(R) Core(TM) i7-10510U, RAM 16GB, SSD 512GB",Valeriia Debono,In use,,EUR 978,30/Oct/20,30/Oct/21,,HAR2-66286,04/Nov/20 18:49,09/Apr/21 12:21,Laptops
+n01162,Lenovo ThinkPad T14,PF2JYWHR,,,"
+
+14"" FHD Core i7-10510U 512GB SSD 16GB RAM Win 10 Pro",Simona Lanzoni,In use,1700.0,USD 840,22/Mar/21,22/Mar/24,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-31493",HAR2-67727,26/Mar/21 14:03,05/May/21 13:23,
+n01170,Ноутбук Lenovo ThinkPad E490 Black (20N8000TRT),PF1LHHBB,e8:6a:64:ac:70:7e,48:f1:7f:cf:e0:9a,"Диагональ дисплея - 14"", разрешение - FullHD (1920 х 1080), Anti-Glare, тип матрицы - IPS, Процессор - Intel Core i7 8565U, объем оперативной памяти - 16 ГБ, Типы внутренних накопителей - HDD, SSD, объем HDD - 1 ТБ, объем SSD - 256 ГБ, No ODD, Видеокарта - AMD Radeon RX550, 2 ГБ, LAN (RJ-45), Windows 10 Pro, 3 cell, 1.75 кг, Black",Oleksandr Bildin,Broken,32295.0,UAH 980,21/Aug/19,20/Aug/20,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-21710
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-45157
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-45366, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28463
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-26065
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-45366
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-45157
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-21710",HAR2-65879,24/Oct/20 12:01,04/Dec/20 17:46,Laptops
+n01173,"Apple MacBook Pro 13"" Silver 2017 (Z0UJ0000X)",FVFYL0NBHV2G,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-7360U • 2,3-3,6 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics 640 • SSD: 256 ГБ • 1,37 кг • ОС: macOS Sierra • цвет: серебристый",,Reserve,48263.0,UAH 980,11/Sep/19,11/Sep/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-46570, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22057, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-46570
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22057",HAR2-65883,24/Oct/20 12:01,21/May/21 15:18,Laptops
+n01176,Lenovo ThinkPad T490 Black (20N3001ERT),PF1S611G,,,"Ноутбук • Классический • 14"" • IPS • 1920x1080 • Intel Core i5-8265U • 1,6 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,46 кг • ОС: Windows 10 Pro • цвет: черный",Alexandra Goncharova,In use,42977.0,UAH 980,1/Oct/19,1/Oct/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-47874, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22402, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-47874
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22402",HAR2-65885,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01192,"Apple MacBook Air 13"" Space Gray 2018 (MRE92)",FVFXM9M7JK78,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-8210Y • 1,6 ГГц • ОЗУ: 8 ГБ • Intel UHD Graphics 617 • SSD: 256 ГБ • 1,25 кг • ОС: macOS • цвет: серый космос",Ganna Gusyeva,In use,32805.0,UAH 980,16/Oct/19,16/Oct/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-49005, https://jira-servicedesk.lucky-labs.com/browse/OSHD-22201, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-49005
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-22201",HAR2-65892,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01198,Lenovo ThinkBook S13 Grey (20R90071RA),P206JP2W,,,"Ультрабук • Классический • 13,3"" • IPS • 1920x1080 • Intel Core i5-8265U • 1,6 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,32 кг • ОС: Windows 10 Pro • цвет: серый",Artem Yanko,In use,27241.0,UAH 980,3/Nov/19,3/Nov/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-50491
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23082, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-50491
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23082",HAR2-65898,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01200,Lenovo ThinkPad T490 (20N20030US),PF-1QP3B6,,3C:F0:11:26:92:5B,"Ультрабук • Классический • 14"" • IPS • 1920x1080 • Intel Core i7-8565U • 1,8 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,3 кг • ОС: Windows 10 Pro • цвет: черный.",Gennadiy Papuashvili,In use,34781.0,UAH 980,4/Nov/19,4/Nov/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-50654, https://jira-servicedesk.lucky-labs.com/browse/OSHD-23148, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-50654
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23148",HAR2-65899,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01226,Lenovo ThinkPad T490 (20N20041US),PF1QPP87,98:FA:9B:3D:4D:E0,D0:AB:D5:BF:68:46,"14"" • IPS • 1920x1080 • Intel Core i7-8665U • 1,9 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,3 кг",Dmytro Hromov,In use,34006.0,UAH 980,24/Nov/19,24/Nov/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-51593, https://jira-servicedesk.lucky-labs.com/browse/OSHD-23346, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-51593
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23346",HAR2-65907,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01228,"Apple MacBook Pro 13"" Silver 2018 (MR9U2)",C02YX2ZQJHCD,,A4-83-E7-1D-55-B8,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-8259U • 2,3 ГГц • ОЗУ: 8 ГБ • Intel Iris Plus Graphics 655 • SSD: 256 ГБ • 1,37 кг • ОС: macOS High Sierra • цвет: серебристый.",,Broken,38962.0,UAH 980,3/Dec/19,3/Dec/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-52578, https://jira-servicedesk.lucky-labs.com/browse/OSHD-23594, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-52578
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23594",HAR2-65910,24/Oct/20 12:01,12/Mar/21 12:31,Laptops
+n01234,"Apple MacBook Pro 13"" Space Grey (Z0UK000QQ) 2017",FVFYW2WNHV2H,A4:83:E7:10:D2:AE,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-7360U • 2,3 ГГц • ОЗУ: 16 ГБ • Intel Iris Graphics 640 • SSD: 256 ГБ • 1,37 кг • ОС: macOS Sierra • цвет: серый космос",Vlad Korkach,In use,43665.0,UAH 980,11/Dec/19,11/Dec/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-53531, https://jira-servicedesk.lucky-labs.com/browse/OSHD-23797, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-53531
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-23797",HAR2-65915,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01243,"Ноутбук Apple MacBook Pro 13"" Space Gray 2019 (Z0WQ000QP)",C02Z91V0LVDL,A4:83:E7:D6:36:C5,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i7-8569U • 2,8 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics 655 • SSD: 512 ГБ • 1,37 кг • ОС: macOS High Sierra • цвет: серый космос",Sergey Timofeev,In use,69795.0,UAH 980,25/Dec/19,25/Dec/20,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-54963, https://jira-servicedesk.lucky-labs.com/browse/OSHD-24089, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-54963
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24089",HAR2-65924,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01248,"Ноутбук Apple MacBook Air 13"" Space Gray 2018 (MRE92)",FVFYK3DJJK78,38:F9:D3:61:32:F4,,"Ноутбук • Класичний • 13,3"" • IPS • 2560x1600 • Intel Core i5-8210Y • 1,6 ГГц • ОЗП: 8 ГБ • Intel UHD Graphics 617 • SSD: 256 ГБ • 1,25 кг • ОС: macOS • колір: сірий космос",Ruslan Kravchuk,In use,31483.0,UAH 980,9/Jan/20,9/Apr/20,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-24137
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-55462, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-55462
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24137",HAR2-65930,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01273,Ноутбук Lenovo ThinkPad T490 Black (20N3001ERT),PF1XE85V,F8:75:A4:25:7C:0F,4C:1D:96:11:33:CA,"Ноутбук • Класичний • 14"" • IPS • 1920x1080 • Intel Core i5-8265U • 1,6 ГГц • ОЗП: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,55 кг • ОС: Windows 10 Pro • колір: чорний",Anton Voinov,In use,38520.0,UAH 980,19/Jan/20,19/Jan/21,"https://jira-servicedesk.lucky-labs.com/browse/OSHD-24432
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-56754, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-56754
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24432",HAR2-65954,24/Oct/20 12:01,10/Mar/21 18:17,Laptops
+n01278,Ноутбук Dell Latitude 5401 (N007L540114ERC_UBU),FM586Y2,8C:04:BA:20:95:DF,90:78:41:DD:07:02,"Ноутбук • Класичний • 14"" • WVA • 1920x1080 • Intel Core i7-9850H • 2,6 ГГц • ОЗП: 16 ГБ • Intel UHD Graphics 630 • SSD: 512 ГБ • 1,53 кг • ОС: Ubuntu Linux • колір: чорний",Oleksii Shulzhenko,In use,32399.0,UAH 980,26/Jan/20,26/Jan/23,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-56960
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24524, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-56960
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24524",HAR2-65961,24/Oct/20 12:01,07/Apr/21 10:52,Laptops
+n01285,"Ноутбук Apple MacBook Pro 16"" Space Gray 2019 (Z0Y00003N)",C02C22LAMD6T,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i9-9880H • 2,3 ГГц • ОЗУ: 32 ГБ • AMD Radeon Pro 5500M, 4 ГБ GDDR6 • SSD: 1024 ГБ • 2,0 кг • ОС: macOS Catalina • цвет: серый космос",Oleksii Mylotskyi,In use,102500.0,UAH 980,4/Feb/20,4/Feb/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-57181, https://jira-servicedesk.lucky-labs.com/browse/OSHD-24586, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-57181
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24586",HAR2-65966,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01292,ASUS ZenBook 14 UX433FAC (UX433FAC-A5135T),KAN0CV12D446439,,,"Ультрабук • Классический • 14"" • WVA • 1920x1080 • Intel Core i5-10210U • 1,6 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics • SSD: 512 ГБ • 1,26 кг • ОС: Windows 10 Home • цвет: синий",Natalia Melnichenko,In use,28499.0,UAH 980,23/Feb/20,23/Feb/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-57761, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-58530, https://jira-servicedesk.lucky-labs.com/browse/OSHD-24742, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28283
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-57761
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-58530
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-24742",HAR2-65972,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01298,Lenovo ThinkBook S13 Grey (20R90071RA),P2074TV4,00-FF-18-F5-C3-DB,28-7F-CF-83-D8-A3,"Ультрабук • Классический • 13,3"" • IPS • 1920x1080 • Intel Core i5-8265U • 1,6 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,32 кг • ОС: Windows 10 Pro • цвет: серый",Oleksandr Honcharuk,In use,26485.0,UAH 980,9/Mar/20,9/Mar/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-60183
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25318, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-60183
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25318",HAR2-65979,24/Oct/20 12:01,21/Apr/21 17:30,Laptops
+n01319,"Ноутбук Apple MacBook Pro 15"" Space Gray 2019 (MV902)",C02ZL27VLVCF,,,"Ноутбук • Классический • 15,4"" • IPS • 2880x1800 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 555X, 4 ГБ GDDR5 • SSD: 256 ГБ • 1,83 кг • ОС: macOS Mojave • цвет: серый космос",Yurii Voitiuk,In use,62830.0,UAH 980,2/Apr/20,16/Jun/21,"
+
+Ноутбук был в ремонте в apolo с 24.09 по 15.12 - гарантия продлилась на время ремонта
+
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61284, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25277, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28461 https://jira-servicedesk.lucky-labs.com/browse/OSHD-27580 https://jira-servicedesk.lucky-labs.com/browse/OSHD-27487 https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61284 https://jira-servicedesk.lucky-labs.com/browse/OSHD-25277",HAR2-66000,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01320,"Apple MacBook Pro 13"" Silver 2019 (Z0WS000EN, Z0WS0005Y)",C02ZQ10TLVDN,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-8279U • 2,4 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics 655 • SSD: 256 ГБ • 1,37 кг • ОС: macOS Mojave • цвет: серебристый",Aleksandr Rudenko,In use,65424.0,UAH 980,2/Apr/20,2/Apr/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61282, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25523, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61282
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25523",HAR2-66002,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01321,"Apple MacBook Air 13"" Space Gray 2019 (MVFJ2)",FVFZG4D3LYWH,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-8210Y • 1,6 ГГц • ОЗУ: 8 ГБ • Intel UHD Graphics 617 • SSD: 256 ГБ • 1,25 кг • ОС: macOS Mojave • цвет: темно-серый",Anastasiia Nikolova,In use,36000.0,UAH 980,1/Apr/20,1/Apr/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61539, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25573, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-61539
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25573",HAR2-66001,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01327,Dell XPS 13 7390 Silver (X3716S4NIW-67S),CQQR9Y2,,,"Ноутбук • 2-в-1 трансформер • 13,3"" • WVA • 3840x2160 • Intel Core i7-10510U • 1,8 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics • SSD: 1000 ГБ • 1,29 кг • ОС: Windows 10 Pro • цвет: черный",Olga Klochkova,In use,67100.0,UAH 980,16/Apr/20,16/Apr/23,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-64099, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25950, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-64099
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25950",HAR2-66009,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01329,"Apple MacBook Pro 13"" Space Gray 2019 (Z0W4000RF,Z0W5000EN,Z0W4000G7)",FVFC9127L414,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5-8257U • 1,4 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics 645 • SSD: 256 ГБ • 1,37 кг • ОС: macOS High Sierra • цвет: серый космос",Natalia Shkarbanova,In use,59999.0,UAH 980,20/Apr/20,20/Apr/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-63979, https://jira-servicedesk.lucky-labs.com/browse/OSHD-25854, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-63979
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-25854",HAR2-66010,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01339,Dell Latitude 5401 (N010L540114ERC_UBU),D72B7Y2,8c:04:ba:24:20:bb,90:78:41:db:10:0a,"
+
+Ноутбук • Классический • 14"" • WVA • 1920x1080 • Intel Core i7-9850H • 2,6 ГГц • ОЗУ: 32 ГБ • NVIDIA GeForce MX 150, 2 ГБ GDDR5 • SSD: 512 ГБ • 1,53 кг • ОС: Windows 10 Pro: 79NWV-4DJT9-MCWQ8-4YJQ8-9TPKG
+
+&nbsp;",Yurii Kosinskiy,In use,46800.0,UAH 980,28/Apr/20,28/Apr/23,"
+
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-63603, https://jira-servicedesk.lucky-labs.com/browse/OSHD-26000, https://jira-servicedesk.lucky-labs.com/browse/OSHD-26917 https://jira-servicedesk.lucky-labs.com/browse/SDFQ-63603 https://jira-servicedesk.lucky-labs.com/browse/OSHD-26000, https://jira-servicedesk.os.eco/browse/OSHD-31565",HAR2-66019,24/Oct/20 12:01,28/May/21 13:33,Laptops
+n01394,"Ноутбук Apple MacBook Pro 15"" Space Gray 2019 (MV902)",C02YT5SXLVCF,,,"Ноутбук • Классический • 15,4"" • IPS • 2880x1800 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 555X, 4 ГБ GDDR5 • SSD: 256 ГБ • 1,83 кг • ОС: macOS Mojave • цвет: серый космос",Nikolay Illyustrov,In use,60099.0,UAH 980,12/Jun/20,12/Jun/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-65831, https://jira-servicedesk.lucky-labs.com/browse/OSHD-26386, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-65831
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-26386",HAR2-66075,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01409,Lenovo ThinkPad T490 Black (20N3000LRT),PF260MDR,,,"Ноутбук • Классический • 14"" • IPS • 1920x1080 • Intel Core i7-8565U • 1,8 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 256 ГБ • 1,55 кг",Dmytro Havrykov,In use,46274.0,UAH 980,7/Jul/20,7/Jul/23,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-70116, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27147, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27591
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-70116
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27147",HAR2-66091,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01438,"Apple MacBook Pro 15"" Space Gray 2019 (MV952, Z0WW001HL, Z0WW00023)",C02Z91NCLVDR,,,"Ноутбук • Классический • 15,4"" • IPS • 2880x1800 • Intel Core i9-9980HK • 2,4 ГГц • ОЗУ: 32 ГБ • AMD Radeon Pro Vega 20, 4 ГБ GDDR5 • SSD: 1024 ГБ • 1,83 кг • ОС: macOS High Sierra • цвет: серый космос",Vladimir Ponikarovsky,In use,80240.0,UAH 980,13/Jul/20,13/Jul/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-69683, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27047, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-69683
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27047",HAR2-66120,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01492,"Apple MacBook Pro 13"" Silver 2020",C02CJ30VML7L,,,"13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ",Alexei Gontar,In use,54766.0,,4/Aug/20,4/Aug/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-30419",HAR2-66173,24/Oct/20 12:01,20/Jan/21 13:31,Laptops
+n01495,"Apple MacBook Pro 13"" Silver 2020 (MWP72)",C02CQ1Y4ML7L,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,4 кг • ОС: macOS Catalina • цвет: серебристый",Iryna Dobrovolska,In use,52400.0,UAH 980,7/Aug/20,7/Aug/21,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-72098, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27586, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-72098
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27586",HAR2-66176,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01505,Lenovo ThinkPad X390 Black (20Q0003TRT),PC1FBRAP,,,"Ультрабук • Классический • 13,3"" • IPS • 1920x1080 • Intel Core i7-8565U • 1,8 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 1024 ГБ • 1,29 кг • ОС: Windows 10 Pro • цвет: черный",Maksym Cherniavskyi,In use,53704.0,UAH 980,2/Sep/20,2/Sep/23,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-74108, https://jira-servicedesk.lucky-labs.com/browse/OSHD-27897, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-74108
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27897",HAR2-66185,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01507,Ноутбук Dell Latitude 5401 (N010L540114ERC_UBU),FRGGQ13,,,"Ноутбук • Классический • 14"" • WVA • 1920x1080 • Intel Core i7-9850H • 2,6 ГГц • ОЗУ: 16 ГБ • NVIDIA GeForce MX 150, 2 ГБ GDDR5 • SSD: 512 ГБ • 1,53 кг • ОС: Ubuntu Linux • цвет: черный",Anton Zhukov,In use,45677.0,UAH 980,26/Aug/20,26/Aug/23,"https://jira-servicedesk.lucky-labs.com/browse/SDFQ-74016
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27980
+, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-74016
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-27980",HAR2-66188,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01508,Ультрабук Lenovo ThinkBook 13s-IML Mineral Grey (20RR001JRA),P207VY46,,B8-9A-2A-1C-38-D3,"Ультрабук • Классический • 13,3"" • IPS • 1920x1080 • Intel Core i5-10210U • 1,6 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,32 кг • ОС: DOS • цвет: серый.",,Reserve,24220.0,UAH 980,27/Aug/20,27/Aug/21,"https://servicedesk.os.eco/browse/SDFQ-73949
+https://servicedesk.os.eco/browse/OSHD-26160, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-73949
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-26160",HAR2-66191,24/Oct/20 12:01,30/Dec/20 17:01,Laptops
+n01519,"Apple MacBook Pro 16"" Silver 2019 (MVVL2)",C02D44DSMD6P,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 5300M, 4 ГБ GDDR6 • SSD: 512 ГБ • 2 кг • ОС: macOS Catalina • цвет: серебристый",Anton Ivannikov,In use,60500.0,UAH 980,20/Sep/20,20/Sep/21,"https://jira-servicedesk.os.eco/browse/SDFQ-75463
+https://jira-servicedesk.os.eco/browse/OSHD-28218, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28218
+https://jira-servicedesk.lucky-labs.com/browse/SDFQ-75463",HAR2-66200,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01523,MSI P65 9SE Creator (P659SE-1084US),K1911N0078620,,,"
+
+15,6"" • IPS • 3840x2160 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 32 ГБ •NVIDIA GeForce RTX 2060, 6 ГБ GDDR6 • SSD: 1000 ГБ • 1,9 кг",Marharyta Talan,In use,50750.0,UAH 980,17/Sep/20,17/Sep/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-28200",HAR2-66203,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01524,HP ProBook 430 G7 Silver (8VT46EA),5CD023CLGS,,,"
+
+13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i5-10210U&nbsp;•&nbsp;1,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel UHD Graphics 620&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,49 кг&nbsp;",Mariia Lobach,In use,28799.0,UAH 980,19/Sep/20,19/Sep/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-28313",HAR2-66613,17/Dec/20 20:43,28/Dec/20 17:18,Laptops
+n01525,Lenovo ThinkBook 15 Grey (20SM000GRA),LR0DJ6ND,,,"Ноутбук • Классический • 15,6"" • IPS • 1920x1080 • Intel Core i7-1065G7 • 1,3 ГГц • ОЗУ: 16 ГБ • Intel UHD Graphics 620 • SSD: 512 ГБ • 1,8 кг • ОС: Windows 10 Pro • цвет: серый",Anna Galkina,In use,32144.0,UAH 980,23/Sep/20,23/Sep/20,"https://jira-servicedesk.os.eco/browse/SDFQ-75550
+https://jira-servicedesk.os.eco/browse/OSHD-28195, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28195",HAR2-66204,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01526,"Apple MacBook Pro 13"" Silver 2020 (MWP72)",C02D21MVML7L,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,4 кг • ОС: macOS Catalina • цвет: серебристый",Dmytro Sherstiuk,In use,52256.0,UAH 980,23/Sep/20,23/Sep/21,"https://jira-servicedesk.os.eco/browse/OSHD-28202
+https://jira-servicedesk.os.eco/browse/SDFQ-75539, https://jira-servicedesk.lucky-labs.com/browse/OSHD-28202",HAR2-66205,24/Oct/20 12:01,25/Mar/21 17:09,Laptops
+n01528,"Apple MacBook Pro 13"" Silver 2020 (MWP72)",﻿C02D21FTML7L,,,"13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,4 кг • ОС: macOS Catalina • цвет: серебристый",Alex Kryzhanovskiy,In use,54376.0,UAH 980,29/Sep/20,29/Sep/21,"https://jira-servicedesk.os.eco/browse/OSHD-28269
+https://jira-servicedesk.os.eco/browse/SDFQ-75534, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-75534
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-28269",HAR2-66208,24/Oct/20 12:01,22/Mar/21 16:53,Laptops
+n01531,"Apple MacBook Pro 13"" Silver 2020 (MWP72)",C02D57924ML7L,,,"Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,4 кг • ОС: macOS Catalina • цвет: серебристый",Ekaterina Grinchishina,In use,52774.0,UAH 980,5/Oct/20,5/Oct/21,,HAR2-66215,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01536,"Apple MacBook Pro 16"" Silver 2019 (MVVL2)",C02CW3HYMD6P,,,"Apple MacBook Pro 16"" Silver 2019 (MVVL2)",Yaroslav Fedyshyn,In use,62200.0,UAH 980,30/Sep/20,30/Sep/21,"https://jira-servicedesk.os.eco/browse/SDFQ-75940
+https://jira-servicedesk.os.eco/browse/OSHD-28291, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-75940
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-28291",HAR2-66214,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01537,"Apple MacBook Pro 16"" Silver 2019 (MVVL2)",C02CT1ZJMD6P,,,"Apple MacBook Pro 16"" Silver 2019 (MVVL2)",Roman Hyrych,In use,62200.0,UAH 980,30/Sep/20,30/Sep/21,"https://jira-servicedesk.os.eco/browse/OSHD-28567
+https://jira-servicedesk.os.eco/browse/SDFQ-76593, https://jira-servicedesk.lucky-labs.com/browse/SDFQ-76593
+https://jira-servicedesk.lucky-labs.com/browse/OSHD-28567",HAR2-66216,24/Oct/20 12:01,28/Dec/20 17:18,Laptops
+n01556,"Apple MacBook Pro 13"" Silver 2019 (MV992)",C02Z40BSLVDG,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5-8279U&nbsp;•&nbsp;2,4 ГГц&nbsp;•&nbsp;ОЗУ: 8 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics 655&nbsp;•&nbsp;SSD: 256 ГБ&nbsp;•&nbsp;1,37 кг&nbsp;•&nbsp;ОС: macOS High Sierra&nbsp;•&nbsp;цвет: серебристый",Asiya Mingazova,In use,42499.0,UAH 980,23/Oct/20,23/Oct/21,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-77466,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-28618",HAR2-66244,28/Oct/20 16:59,28/Dec/20 17:18,Laptops
+n01560,MSI GL65-10SEK (GL6510SEK-607XUA),9S716U722607ZK8000006,,,"
+
+i7-10750H, 2.6 ГГц 8ГБ*2 1x 2.5"" SATA HDD свободный слот,1 x 512GB M.2 PCIe SSD, 15.6"" FHD (1920x1080), 120Гц, IPS-уровня,NVIDIA® GeForce® RTX 2060, GDDR6 6GB, 1x Type-C USB3.2 Gen2, 3x Type-A USB3.2 Gen1, 1x SD (XC/HC) Card Reader, 1x HDMI(4K @ 30Hz) 1.4, 1x Mini-DisplayPort, 1x RJ45",,Reserve,48500.0,UAH 980,30/Oct/20,30/Oct/21,"
+
+Лицензия Windows 10 *-BG9TT (ключ на вики)",HAR2-66255,30/Oct/20 17:49,17/May/21 17:03,
+n01561,Apple MacBook Air 2020,FVFD89KHM6KG,,,"Apple MacBook Air (13-inch, 1.1GHz quad-core 10th-generation Intel&nbsp;Core&nbsp;i5 processor, 8GB RAM, 512GB) - Space Gray",Blanka Homor,In use,1300.0,USD 840,20/Oct/20,20/Oct/21,,HAR2-66256,30/Oct/20 17:58,28/Dec/20 17:18,
+n01567,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02DFMWFMD6M,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 5300M, 4 ГБ GDDR6 • SSD: 512 ГБ • 2,0 кг • ОС: macOS Catalina • цвет: серый космос",Oleksiy Fomin,In use,66560.0,UAH 980,5/Nov/20,5/Nov/21,"
+
+https://servicedesk.os.eco/browse/SDFQ-78243,&nbsp;https://servicedesk.os.eco/browse/OSHD-28800",HAR2-66304,06/Nov/20 14:49,01/Apr/21 14:50,Laptops
+n01568,"Apple MacBook Pro 15"" Space Gray 2019 (Z0VW00058, Z0WV00058)",C02ZH0Q2LVCG,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,4""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2880x1800&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;AMD Radeon Pro 555X, 4 ГБ GDDR5&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,83 кг&nbsp;•&nbsp;ОС: macOS High Sierra&nbsp;•&nbsp;цвет: серый космос",Oleksandr Yurchenko,In use,66560.0,UAH 980,5/Nov/20,5/Nov/21,"
+
+https://servicedesk.os.eco/browse/SDFQ-78371,&nbsp;https://servicedesk.os.eco/browse/OSHD-29052",HAR2-66306,06/Nov/20 15:11,28/Dec/20 17:18,Laptops
+n01570,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02D1HFKMD6M,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i7-9750H • 2,6 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 5300M, 4 ГБ GDDR6 • SSD: 512 ГБ • 2,0 кг • ОС: macOS Catalina • цвет: серый космос",Sergey Khlivnenko,In use,66700.0,UAH 980,20/Nov/20,20/Nov/21,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-79116,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-29227",HAR2-66487,30/Nov/20 13:13,28/Dec/20 17:18,Laptops
+n01572,Lenovo ThinkBook 14-IIL (20SL0023RA),LR0DVYTL,,,"
+
+14"" • IPS • 1920x1080 • Intel Core i5-1035G4 • 1,1 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,5 кг • ОС: Windows 10 Pro • цвет: серый",Kateryna Medvedieva,In use,28300.0,UAH 980,4/Nov/20,4/Nov/21,,HAR2-66307,06/Nov/20 17:06,28/Dec/20 17:18,
+n01573,Lenovo ThinkBook 14-IIL (20SL0023RA),LR0DVYTN,,,"
+
+14"" • IPS • 1920x1080 • Intel Core i5-1035G4 • 1,1 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,5 кг • ОС: Windows 10 Pro • цвет: серый",Anna Zakharova,In use,28300.0,UAH 980,4/Nov/20,4/Nov/21,,HAR2-66308,06/Nov/20 17:10,28/Dec/20 17:18,
+n01574,"Ноутбук Apple MacBook Pro 13"" Space Gray 2020 (MWP72)",CO2DCBZUML7H,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5 10th-generation&nbsp;•&nbsp;2 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серебристый",Yurii Kuka,In use,53000.0,UAH 980,10/Nov/20,10/Nov/21,,HAR2-66342,12/Nov/20 12:35,28/Dec/20 17:18,Laptops
+n01575,"Ноутбук Apple MacBook Pro 13"" Space Gray 2020 (MWP72)",CO2D6DMXML7H,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5 10th-generation&nbsp;•&nbsp;2 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серебристый",Oleksandr Merkotan,In use,53000.0,UAH 980,10/Nov/20,10/Nov/21,,HAR2-66343,12/Nov/20 12:43,09/Dec/20 15:03,Laptops
+n01577,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02ZH532MD6M,,,"
+
+16""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3072x1920&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•AMD Radeon Pro 5300M, 4 ГБ GDDR6&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;2 кг&nbsp;•&nbsp;",Alexei Kocherga,In use,66987.0,UAH 980,10/Dec/20,10/Dec/21,,HAR2-66568,11/Dec/20 11:38,28/Dec/20 17:18,Laptops
+n01686,Dell G7 15 7500 (CAG157W10P1C3700),7QMDHX2,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3840x2160&nbsp;•&nbsp;Intel Core i9-10885H&nbsp;•&nbsp;2,4 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;NVIDIA GeForce RTX 2070, 8 ГБ&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;ОС: Windows 10 Home",Andrii Levitskyi,In use,65917.0,UAH 980,28/Dec/20,28/Dec/21,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-80804,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-29824",HAR2-66792,28/Dec/20 20:00,28/Dec/20 20:00,Laptops
+n01687,HP ProBook 450 G7 Silver (6YY22AV_V4),5CD0139SZP,,,"
+
+Ноутбук • Классический • 15,6"" • IPS • 1920x1080 • Intel Core i7-10510U • 1,8 ГГц • ОЗУ: 16 ГБ • NVIDIA GeForce MX250, 2 ГБ • SSD: 512 ГБ • 2 кг • ОС: DOS • цвет: серебристый",Mykhail Novko,In use,39955.0,UAH 980,13/Jan/21,13/Jan/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-81302,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30011",HAR2-66918,13/Jan/21 13:42,13/Jan/21 13:44,Laptops
+n01690,Dell G7 15 7500 (GN7500EHJH),GMGHHX2,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i7-10750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;NVIDIA GeForce RTX 2070 Max-Q&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;ОС: Windows 10 Home",Oleksandr Androsov,In use,52750.0,UAH 980,13/Jan/21,13/Jan/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-81623,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30145",HAR2-66919,13/Jan/21 18:25,13/Jan/21 18:25,Laptops
+n01691,Dell G7 15 7500 (GN7500EHJH),24SHHX2,A4-BB-6D-73-35-53,78-2B-46-CC-DF-B2,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i7-10750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;NVIDIA GeForce RTX 2070 Max-Q&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;ОС: Windows 10 Home",Svitlana Chuienko,In use,52750.0,UAH 980,14/Jan/21,14/Jan/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-81659,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30107
+
+https://jira-servicedesk.os.eco/browse/OSHD-30419
+
+https://jira-servicedesk.os.eco/browse/OSHD-30471",HAR2-66927,14/Jan/21 20:00,21/Jan/21 13:09,Laptops
+n01694,"Ноутбук Apple MacBook Pro 13"" Space Gray 2020 (MWP72)",C02DP0BAML7L,,14:7d:da:83:65:13,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5 10th-generation&nbsp;•&nbsp;2 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серебристый",Vyacheslav Syrotin,In use,53000.0,UAH 980,19/Jan/21,19/Jan/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-82072,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30348",HAR2-66986,19/Jan/21 20:00,25/Mar/21 17:09,Laptops
+n01695,Apple Macbook Pro 13” Silver Late 2020 (MYDC2),FVFDR4NNQ05H,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Apple M1&nbsp;•&nbsp;ОЗУ: 8 ГБ&nbsp;•&nbsp;8 core GPU&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Big Sur&nbsp;•&nbsp;цвет: серебристый",Veselovskyi Vladyslav,In use,49900.0,UAH 980,20/Jan/21,20/Jan/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-81906,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30244",HAR2-66997,20/Jan/21 19:14,22/Jan/21 12:21,Laptops
+n01703,"Apple MacBook Pro 16"" Space Gray 2019 (MVVK2)",C02D83K2MD6N,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i9-9880H • 2,3 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 5500M, 4 ГБ GDDR6 • SSD: 1024 ГБ • 2,0 кг • ОС: macOS Catalina • цвет: серый космос",Denis Salo,In use,70450.0,UAH 980,28/Jan/21,28/Apr/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-30415,&nbsp;cen004893",HAR2-67086,29/Jan/21 14:34,03/Feb/21 14:51,Laptops
+n01704,"Apple MacBook Pro 15"" Silver 2019 (Z0WY0000C)",C02Z3058LVDV,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,4""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2880x1800&nbsp;•&nbsp;Intel Core i9-9980HK&nbsp;•&nbsp;2,4 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;AMD Radeon Pro 560X, 4 ГБ GDDR5&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;1,83 кг&nbsp;•&nbsp;ОС: MacOS Mojave&nbsp;•&nbsp;цвет: серебристый",Danil Zotov,In use,67632.0,UAH 980,28/Jan/21,28/Apr/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-30415,&nbsp;cen004893",HAR2-67087,29/Jan/21 14:40,02/Feb/21 15:36,Laptops
+n01710,"Apple MacBook Pro 16"" Space Gray 2019 (MVVK2)",C02CW4PPMD6N,,,"Ноутбук • Классический • 16"" • IPS • 3072x1920 • Intel Core i9-9880H • 2,3 ГГц • ОЗУ: 16 ГБ • AMD Radeon Pro 5500M, 4 ГБ GDDR6 • SSD: 1024 ГБ • 2,0 кг • ОС: macOS Catalina • цвет: серый космос",Dmitry Filonenko,In use,70200.0,UAH 980,2/Feb/21,2/May/21,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-30415,&nbsp;cen004893",HAR2-67133,02/Feb/21 22:26,03/Feb/21 16:21,Laptops
+n01711,"Apple MacBook Pro 15"" Silver 2018 (Z0V2000C8, Z0V30024P)",C02XC0HFJGH8,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,4""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2880x1800&nbsp;•&nbsp;Intel Core i9-8950HK&nbsp;•&nbsp;2,9 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;AMD Radeon Pro 560X, 4 ГБ GDDR5&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,83 кг&nbsp;•&nbsp;ОС: macOS&nbsp;•&nbsp;цвет: серебристый",Dmitry Mironov,In use,69200.0,UAH 980,2/Feb/21,2/Feb/22,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-30415,&nbsp;cen004893",HAR2-67134,02/Feb/21 22:50,03/Feb/21 16:20,Laptops
+n01713,Dell XPS 13 9300 (XPS9300-7524SLV),CN-09TDW7-CMK00-08E-00A9,,,"
+
+Ультрабук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,4""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1200&nbsp;&nbsp;•&nbsp;Intel Core i7-1065G7&nbsp;•&nbsp;1,3 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,27 кг&nbsp;•&nbsp;ОС: Windows 10 Pro&nbsp;•&nbsp;цвет: черный",Kateryna Oliinyk,In use,41356.0,UAH 980,29/Jan/21,29/Jan/22,"
+
+https://servicedesk.os.eco/browse/SDFQ-82314,&nbsp;https://servicedesk.os.eco/browse/OSHD-30500",HAR2-67135,02/Feb/21 23:08,03/Feb/21 18:28,Laptops
+n01736,HP EliteBook 840 G7 Silver (177B3EA),5CG05325GW,,E0-D4-64-0F-7E-27,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;14""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i7-10710U&nbsp;•&nbsp;1,1 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;Intel UHD Graphics&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;1,33 кг&nbsp;•&nbsp;ОС: Windows 10 Pro&nbsp;•&nbsp;цвет: серебристый",Andrey Tereschenko,In use,52655.0,UAH 980,23/Feb/21,23/Feb/24,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-82618,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-30799",HAR2-67393,24/Feb/21 13:38,02/Mar/21 16:54,Laptops
+n01740,"Apple MacBook Pro 13"" Space Gray 2020 (MWP72)",C02D8AUPML7L,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5 10th-generation&nbsp;•&nbsp;2 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серебристый",,Reserve,54200.0,UAH 980,1/Mar/21,1/Mar/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-82909,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31036",HAR2-67450,01/Mar/21 16:07,30/Apr/21 15:15,Laptops
+n01742,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02DXHLZMD6M,,,"
+
+16""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3072x1920&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•AMD Radeon Pro 5300M, 4 ГБ GDDR6&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;2 кг&nbsp;•&nbsp;",Viacheslav Negovskyi,In use,73750.0,UAH 980,18/Mar/21,18/Mar/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-83326,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31368",HAR2-67644,18/Mar/21 17:07,18/Mar/21 17:07,Laptops
+n01743,"Apple MacBook Pro 13"" Space Gray 2020 (MWP72)",CO2D31JEML7L,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;13,3""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;2560x1600&nbsp;•&nbsp;Intel Core i5 10th-generation&nbsp;•&nbsp;2 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;Intel Iris Plus Graphics&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;1,4 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серебристый",Georgiy Voloshyn,In use,54890.0,UAH 980,19/Mar/21,19/Mar/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-83092,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31179",HAR2-67674,22/Mar/21 0:33,22/Mar/21 0:33,Laptops
+n01749,MSI WS65 9TM (WS659TM-857US),K1910N0060553,00:D8:61:89:5B:E3,C0:D8:83:02:75:B0,"
+
+Ноутбук&nbsp;•&nbsp;Класичний&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3840x2160&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗП: 32 ГБ&nbsp;•&nbsp;NVIDIA Quadro RTX 5000, 16 ГБ GDDR6&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;1,9 кг&nbsp;•&nbsp;ОС: Windows 10 Pro&nbsp;•&nbsp;колір: чорний і золотий",Iryna Golovleva,In use,78496.0,UAH 980,9/Apr/21,9/Apr/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-83886,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31671",HAR2-67897,09/Apr/21 18:14,15/Apr/21 18:18,Laptops
+n01753,"Apple MacBook Pro 16"" 2019",C02DTEX8MD6N,,,"
+
+Intel Core i9 2.3GHz 8-Core
+
+RAM 16GB 2667 MHZ DDR4
+
+Grapgics Intel UHD Graphics 630 1536 MB",Sergey Filchuk,In use,,,19/Mar/21,19/Mar/22,,HAR2-67706,24/Mar/21 13:56,24/Mar/21 13:56,
+N01765,HP Envy x360,-,,,"
+
+HP Envy x360 13.3"" FHD IPS Touch Bright View Ryzen 7-4700U (4th Gen) 512GB SSD 16GB RAM Win10 Home",Tamas Kusztos,In use,,,,,,HAR2-68247,10/May/21 14:00,11/May/21 11:35,Laptops
+n01767,MacBook,C02FC3FDMD6Q,,,"
+
+Intel Core i9-9880H CPU&nbsp; 2.30GHz Processor / 16 GB RAM 2667 MHz / &nbsp;1TB /",Joshua Sell,In use,,,23/Apr/21,,"
+
+&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-32107",HAR2-68212,07/May/21 18:39,26/May/21 11:19,Laptops
+n01779,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02F9B5RMD6M,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;16""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3072x1920&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;AMD Radeon Pro 5300M, 4 ГБ GDDR6&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;2 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серый космос",,Reserve,69000.0,UAH 980,14/Apr/21,14/Apr/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-83917,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31806",HAR2-67973,15/Apr/21 11:01,31/May/21 16:00,Laptops
+n01780,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02DP6CUMD6M,,14:7d:da:7e:be:ea,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;16""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3072x1920&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;AMD Radeon Pro 5300M, 4 ГБ GDDR6&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;2 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серый космос",Yevhenii Kaliusetskyi,In use,68880.0,UAH 980,16/Apr/21,16/Apr/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-83958,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31690",HAR2-67986,16/Apr/21 20:46,23/Apr/21 14:17,Laptops
+n01781,"Apple MacBook Pro 16"" Space Gray 2019 (MVVJ2)",C02DN2L5MD6M,,14:7d:da:7f:2f:0e,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;16""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;3072x1920&nbsp;•&nbsp;Intel Core i7-9750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 16 ГБ&nbsp;•&nbsp;AMD Radeon Pro 5300M, 4 ГБ GDDR6&nbsp;•&nbsp;SSD: 512 ГБ&nbsp;•&nbsp;2 кг&nbsp;•&nbsp;ОС: macOS Catalina&nbsp;•&nbsp;цвет: серый космос",Denys Humeniuk,In use,68880.0,UAH 980,16/Apr/21,16/Apr/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-84029,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-31904",HAR2-67987,16/Apr/21 20:49,21/Apr/21 18:40,Laptops
+n01785,Dell G7 15 7500 (GN7500EHZFH),FNDDHX2,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i9-10885H&nbsp;•&nbsp;2,4 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ (докуплено) •&nbsp;NVIDIA GeForce RTX 2070, 8 ГБ GDDR6&nbsp;•&nbsp;SSD: 1000 ГБ&nbsp;•&nbsp;2,5 кг&nbsp;•&nbsp;ОС: Windows 10 Home&nbsp;•&nbsp;цвет: черный",Valeriy Rosovik,In use,54005.0,UAH 980,30/Apr/21,30/Apr/22,"
+
+В ноут вставлен комплект оперативы 2х16&nbsp;a02274 и&nbsp;a02275
+
+https://jira-servicedesk.os.eco/browse/SDFQ-84181,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-32035",HAR2-67252,13/Feb/21 0:36,05/May/21 16:51,Laptops
+n01788,HP ENVY 15-ep0010ur Silver (1U9J4EA),5CD111T0CS,,,"
+
+Ноутбук&nbsp;•&nbsp;Классический&nbsp;•&nbsp;15,6""&nbsp;•&nbsp;IPS&nbsp;•&nbsp;1920x1080&nbsp;•&nbsp;Intel Core i7-10750H&nbsp;•&nbsp;2,6 ГГц&nbsp;•&nbsp;ОЗУ: 32 ГБ&nbsp;•&nbsp;NVIDIA GeForce GTX 1660 Ti, 6 ГБ GDDDR6&nbsp;•&nbsp;SSD: 2х 512 ГБ&nbsp;•&nbsp;2,14 кг&nbsp;•&nbsp;ОС: DOS&nbsp;•&nbsp;цвет: серебристый",Vladymyr Petrovskiy,In use,59000.0,UAH 980,14/May/21,14/May/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-84585,&nbsp;https://jira-servicedesk.os.eco/browse/OSHD-32285",HAR2-68293,14/May/21 17:42,17/May/21 17:37,Laptops
+n01791,"Apple MacBook Pro 13"" Space Gray 2020 (MWP42)",C02DX1XTML7H,14:7D:DA:D0:3E:78,,"
+
+Ноутбук • Классический • 13,3"" • IPS • 2560x1600 • Intel Core i5 10th-generation • 2 ГГц • ОЗУ: 16 ГБ • Intel Iris Plus Graphics • SSD: 512 ГБ • 1,4 кг • ОС: macOS Catalina • цвет: серый космоС",Nina Borynets,In use,58668.0,UAH 980,28/Apr/21,28/Apr/22,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-31986
+https://jira-servicedesk.os.eco/browse/SDFQ-84176",HAR2-68258,11/May/21 13:20,11/May/21 13:30,
+n01792,ASUS ROG Strix SCAR 15 G532LWS (G532LWS-DS76),L8NRKD010952344,,,"
+
+15,6"" • IPS • 1920x1080 • Intel Core i7-10875H • ОЗУ: 16 ГБ • NVIDIA GeForce RTX 2070 Super, 8 ГБ GDDR6 • SSD: 1000 ГБ • ОС: Windows 10",Denys Panasenko,In use,52599.0,UAH 980,11/May/21,11/May/22,"
+
+https://jira-servicedesk.os.eco/browse/OSHD-32236, https://jira-servicedesk.os.eco/browse/SDFQ-84350",HAR2-68259,11/May/21 16:05,12/May/21 1:38,
+n01800,DELL XPS15-9500-P1748STW,4JTN8D3,,68-54-5A-95-95-7F,i7-10750H / 16G / GTX1650Ti-4G / 512G PCIe / W10P / FHD / 15.6)&nbsp;Номер&nbsp;артикула&nbsp;:&nbsp;DHAI34-A900AS60D,Kang Daniel,In use,2652.0,USD 840,10/May/21,10/May/22,"
+
+https://jira-servicedesk.os.eco/browse/SDFQ-84587
+
+https://jira-servicedesk.os.eco/browse/OSHD-32071",HAR2-68498,28/May/21 12:34,01/Jun/21 13:23,
